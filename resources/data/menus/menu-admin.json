@@ -1,0 +1,48 @@
+{
+  "menu": [
+    {
+      "url": "/beranda",
+      "name": "Beranda",
+      "icon": "bx bx-home-alt",
+      "slug": "beranda"
+    },
+    {
+      "navheader": "Dokumen",
+      "icon": ""
+    },
+    {
+      "url": "/daftar-dokumen",
+      "name": "Dokumen Sirkulir",
+      "icon": "bx bxs-file-find",
+      "slug": "daftar-dok"
+    },
+    {
+      "url": "/dokumen-selesai",
+      "name": "Dokumen Selesai",
+      "icon": "bx bxs-file-export",
+      "slug": "dokumen-selesai"
+    },
+    {
+      "url": "/submit-dokumen",
+      "name": "Submit Dokumen",
+      "icon": "bx bxs-file-plus",
+      "slug": "submit-dok"
+    },
+    {
+      "navheader": "Nomor Surat",
+      "icon": ""
+    },
+    {
+      "url": "/req-nomor",
+      "name": "Request",
+      "icon": "bx bxs-add-to-queue",
+      "slug": "req-nomor"
+    },
+    {
+      "url": "/inbox-nomor",
+      "name": "Inbox",
+      "icon": "bx bxs-inbox",
+      "slug": "inbox-nomor"
+    }
+  ]
+}
